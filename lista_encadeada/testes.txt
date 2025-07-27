@@ -1,0 +1,5 @@
+Inserindo elementos: 10 15 20 
+Tamanho: 3
+Valor na posição 2: 15
+Novo valor na posição 2: 25
+Após remover posição 1: 25 20 
